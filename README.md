@@ -10,7 +10,7 @@ AngularJS1 "@uirouter" Parent Child State Demo
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
 Documentation
